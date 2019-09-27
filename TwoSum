@@ -1,0 +1,9 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        a={} 
+        for b,num in enumerate(nums): #利用enumerate列舉
+            c=target-num
+            if c not in a:
+                a[num]=b
+            else:
+                return [a[c],b]
