@@ -3,4 +3,4 @@
 
 
 # content
-1.[Reverse Integer]("https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Reverse%20Integer")
+1.[Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Reverse%20Integer)
