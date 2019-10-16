@@ -8,4 +8,4 @@
 1.[Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Reverse%20Integer)
 
 # Practice
-1.[基礎練習1](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
+1.[基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
