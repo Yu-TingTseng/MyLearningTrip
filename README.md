@@ -3,7 +3,7 @@
 
 # 交作業專區Homework
 1.[第一項(10/18)](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/HomeWork1/HW1-DAS.ipynb)
-  [流程圖(10/18)]()
+  [流程圖(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1%E6%B5%81%E7%A8%8B%E5%9C%96.pdf)
 
 # LearningBySelf
 1.[Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Reverse%20Integer)
