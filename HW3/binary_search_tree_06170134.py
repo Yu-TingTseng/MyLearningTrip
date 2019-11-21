@@ -4,6 +4,16 @@
 # In[ ]:
 
 
+class TreeNode(object):
+    def __init__(self,x):
+        self.val = x
+        self.left = None
+        self.right = None
+        """
+        :type val: int
+        :type left: TreeNode or None
+        :type right: TreeNode or None
+        """    
 class Solution(object):
     def insert(self, root, val):
         """
