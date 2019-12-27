@@ -30,7 +30,7 @@
 
 3.[Palindrome Number](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Palindrome%20Number.ipynb)
 
-4.[]()
+4.[Longest Common Prefix](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Longest%20Common%20Prefix.ipynb)
 
 5.[]()
 # Practice
