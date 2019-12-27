@@ -32,6 +32,6 @@
 
 4.[Longest Common Prefix](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Longest%20Common%20Prefix.ipynb)
 
-5.[]()
+5.[Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Length%20of%20Last%20Word.ipynb)
 # Practice
 1.[基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
