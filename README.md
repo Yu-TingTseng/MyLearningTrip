@@ -49,20 +49,46 @@ ___
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 ### week3
 * 
-- 
+- [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### week4
+* 
+- [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### week5
+* 
+- [老師ppt]
 ### week6
+* 
+- [老師ppt]
 ### week7
+* 
+- [老師ppt]
 ### week8
+* 
+- [老師ppt]
 ### week9
+* 
+- [老師ppt]
 ### week10
+* 
+- [老師ppt]
 ### week11
+* 
+- [老師ppt]
 ### week12
+* 
+- [老師ppt]
 ### week13
+* 
+- [老師ppt]
 ### week14
+* 
+- [老師ppt]
 ### week15
+* 
+- [老師ppt]
 ### week16
+* 
+- [老師ppt]
 ### week17
 * 期末考
   * 時間複雜度:InsertionSort、QuickSort、HeapSort、MergeSort、BST、BRT、DFS、BFS
