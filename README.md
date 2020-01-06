@@ -72,6 +72,7 @@ ___
 ### week18
 * 放假(寒假開始)
 ### 關於這堂課的心得
-* 
-# ☕ Practice
-1.[基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
+* 我覺得這堂課帶給我很大的壓力，我的程式邏輯並不是很好，一開始我也想好好去學習這堂課的內容，我知道老師是希望我們能更好，但我不認同助教和老師討論出的評分方式（我覺得兩人跟本就講不一樣的東西啊），後來發現我每次都是想辦法應付助教的作業而已，反而讓我本來不討厭理解程式碼，變得很抗拒去接觸，又不得不去，讓我覺得很折磨，希望我寒假可以調整過來。
+# ☕ Practice(機器學習)
+1. [基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
+  
