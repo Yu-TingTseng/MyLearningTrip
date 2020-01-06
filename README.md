@@ -1,11 +1,11 @@
-# 🍨Who am I ?
+# Who am I ?
 我是曾鈺婷，我的興趣是吃美食、看小說跟旅行，會選擇讀資料科學相關科系是因為不討厭使用電腦、也不討厭閱讀資料，我喜歡觀察人，包括人的周圍發生的事，很有趣，就連旅行和小說都是，我可以看到很多不一樣的風景，所以希望未來我可以讓自己有能力去看更多。
 
-# 🍨My Learning Trip
+# My Learning Trip
 我是鈺婷，這裡是我的學習歷程
 
 ___
-# 🍨交作業專區Homework
+# 交作業專區Homework
 ### HW1
 * [流程圖quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
 - [程式碼quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/QuickSort_06170134.py)
@@ -41,10 +41,10 @@ ___
 5.[Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Length%20of%20Last%20Word.ipynb)
 
 # 資料結構演算法上課內容
-### week1
-* 解說上課方式解說上課方式和計分規則
-         2. [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p]
- week2:
+#### week1
+* 解說上課方式和計分規則
+  * [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p]
+#### week2
 3. week3:
 4. week4
 5. week5
