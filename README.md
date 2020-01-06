@@ -41,69 +41,73 @@ ___
 5. [Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Length%20of%20Last%20Word.ipynb)
 
 # ☕ 資料結構演算法上課內容
-### week1
+### 🥐week1
 * 解說上課方式和計分規則
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week2
+### 🥐week2
 * LinkedList
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p) 
-### week3
+### 🥐week3
 * Stack & Queue
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week4
+### 🥐week4
 * Insertion Sort
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week5
+### 🥐week5
 * Quick Sort
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week6
+### 🥐week6
 * Heap Sort
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week7
+### 🥐week7
 * Merge Sort
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week8
+### 🥐week8
 * Binary Tree
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week9
+### 🥐week9
 * 
-### week10
+### 🥐week10
 * Binary Search Tree
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week11
+### 🥐week11
 * Red Black Tree
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * Hash Table
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week12
+### 🥐week12
 * Breadth-First Search
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.g7a5d8b85ee_0_0)
-### week13
+### 🥐week13
 * Depth-First Search
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week14
+### 🥐week14
 * Minimum Spanning Tree
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week15
+### 🥐week15
 * Shortest Path
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
-### week16
+### 🥐week16
 * 期末考方式和計分規則
   * 時間複雜度:InsertionSort、QuickSort、HeapSort、MergeSort、BST、BRT、DFS、BFS
   - 基本程式碼手寫:LinkList、Stack、Queue、InsertionSort、QuickSort、HeapSort、MergeSort 
   * 樹:BST(新增、刪除、修改、查詢)、BRT(新增、刪除、修改、查詢、平衡)
   - 圖:DFS、BFS、MST、ShortPath
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSkbZghFr5Y3VG3b-BKCZiLNHyhcMIxFmNDHn-tgWQqH4vaGjulKASn_ex_LLDJwxPIRCacGQnBRYrI/pub?start=false&loop=false&delayms=3000&slide=id.g7be2b1a8b7_1_20)
-
-### week17
+* 同學的demo(期末專案代替期末考)
+  * 我真的很佩服他們，能夠自己寫出一整份code，一環扣一環，還有同學deom是藉由跟大家互動，讓我們更了解他寫的內容。
+### 🥐week17
 * 期末考
-  * 時間複雜度:InsertionSort、QuickSort、HeapSort、MergeSort、BST、BRT、DFS、BFS
-  - 基本程式碼手寫:LinkList、Stack、Queue、InsertionSort、QuickSort、HeapSort、MergeSort 
-  * 樹:BST(新增、刪除、修改、查詢)、BRT(新增、刪除、修改、查詢、平衡)
+  * 時間複雜度:InsertionSort、QuickSort、HeapSort、MergeSort
+  - 基本程式碼手寫:LinkList、QuickSort、HeapSort、MergeSort 
+  * 樹:BST(新增、刪除、修改)、BRT(新增、刪除、修改、平衡)
   - 圖:DFS、BFS、MST、ShortPath
-### week18
+- 考完心情
+  發現程式碼手寫真的蠻難的，看到考題的瞬間，腦袋一片空白，但是我能盡力寫的我都寫了，其他時間複雜度、樹、圖，我都準備的蠻有信心的，還是很希望我手寫部分能寫對一些。
+### 🥐week18
 * 放假(寒假開始)
-### 關於這堂課的心得
+- YA~HAPPY
+### 🥐關於這堂課的心得
 * 我覺得這堂課帶給我很大的壓力，我的程式邏輯並不是很好，一開始我也想好好去學習這堂課的內容，我知道老師是希望我們能更好，但我不認同助教和老師討論出的評分方式（我覺得兩人跟本就講不一樣的東西啊），後來發現我每次都是想辦法應付助教的作業而已，反而讓我本來不討厭理解程式碼，變得很抗拒去接觸，又不得不去，讓我覺得很折磨，希望我寒假可以調整過來。
 # ☕ Practice(機器學習)
 1. [基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
