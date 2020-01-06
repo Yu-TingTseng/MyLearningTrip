@@ -50,19 +50,27 @@ ___
 * 9/13 中秋節放假
 ### 🥐week2
 * LinkedList
-  * 演算法
-  - 
+  * 最常見的資料結構(基本)
+  - 功能
+        * 查詢
+        - 插入
+        * 刪除
+        - 修改
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 ### 🥐week3
-* Stack & Queue
-  *
-  - 
-- [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* Stack 
+  * 堆疊
+  - 最晚進入Stack的資料會最先被pop，最早進入Stack的資料最晚被pop
+- Queue 
+  * 隊列
+  - 先進入Queue的人，會先被pop
+* [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week4
 * Insertion Sort
-  *
+  * 插入排序法
   - 時間複雜度:O(n^2)
-  * 
+  * 一種簡單直觀的排序演算法
+  - 從後向前掃描，反覆把已排序元素逐步向後挪位
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week5
 * [Quick Sort](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
@@ -86,8 +94,10 @@ ___
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week8
 * Binary Tree
-  *
-  - 
+  * 二元樹
+  - 每個節點最多只有兩個分支
+  * 左邊的子節點放比父節點小的或等於的，右邊的子節點放大於的
+  - 所有xx二元樹的基本
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week9
 * 講解期末專案
@@ -113,7 +123,8 @@ ___
          - delete:O(log n)
   * 實現關聯陣列
   - 跟節點必需要是黑色的，子節點是紅色的
-  
+  * 黑節點數目要一樣
+  - 二元搜尋樹左右不平衡導致查詢時間過長的問題
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Hash Table](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96_hash_table.ipynb)
   * 雜湊表
