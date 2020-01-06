@@ -39,8 +39,8 @@
 5.[Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Length%20of%20Last%20Word.ipynb)
 
 # 資料結構演算法上課內容
-1. week1:(1) 解說上課方式解說上課方式和計分規則
-         (2) ![老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p]
+1. week1:1. 解說上課方式解說上課方式和計分規則
+         2. [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p]
 2. week2:
 3. week3:
 4. week4
