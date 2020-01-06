@@ -43,49 +43,114 @@ ___
 # ☕ 資料結構演算法上課內容
 ### 🥐week1
 * 解說上課方式和計分規則
+  * 60% 作業(6次、一次10分)
+  - 30% 期末考或專案
+  * 10% 線上學習(GitHub整理、AWS、LeetCode、CodeSignal)
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* 9/13 中秋節放假
 ### 🥐week2
 * LinkedList
+  * 演算法
+  - 
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 ### 🥐week3
 * Stack & Queue
+  *
+  - 
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week4
 * Insertion Sort
+  *
+  - 時間複雜度:O(n^2)
+  * 
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week5
-* Quick Sort
+* [Quick Sort](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
+  * 快速排序法
+  - 時間複雜度:O(n log n)
+  * 選定一個數為基準點pivot，跟基準點比大小，小的放左邊，大的放右邊
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* 10/11 國慶日連假
 ### 🥐week6
-* Heap Sort
+* [Heap Sort](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-HS.ipynb)
+  * 堆積排序
+  - 時間複雜度:O(n log n)
+  * 子節點的鍵值或索引總是小於（或者大於）它的父節點
+  - 每一輪最後最上面最小的數跟最後一個節點交換，離開樹放到陣列裡，由前往後依序排
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week7
-* Merge Sort
+* [Merge Sort](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-MS.ipynb)
+  * 合併排序
+  - 時間複雜度:O(n log n)
+  * 先拆成兩個兩個數去比較，在下來四個四個數比較，最後一起比較
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week8
 * Binary Tree
+  *
+  - 
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week9
-* 
+* 講解期末專案
+- 生涯問卷調查
 ### 🥐week10
-* Binary Search Tree
+* [Binary Search Tree](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW3/%E6%B5%81%E7%A8%8B%E5%9C%96_binary_tree.ipynb)
+  * 二元搜尋樹，是二元樹的衍生
+  - 時間複雜度
+   * space:O(log n)
+   - insert:O(log n)
+   * search:O(log n)
+   - delete:O(log n)
+  * 左邊的子節點放比父節點小的或等於的，右邊的子節點放大於的
+  - 相比其他資料結構，優勢在於尋找、插入的時間複雜度較低
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week11
 * Red Black Tree
+  * 紅黑樹(二元平衡樹)
+  - 時間複雜度
+   * space:O(log n)
+   - insert:O(log n)
+   * search:O(log n)
+   - delete:O(log n)
+  * 
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
-* Hash Table
+* [Hash Table](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96_hash_table.ipynb)
+  * 雜湊表
+  - 通過映射把資料進行儲存的演算法
+  * 能有更好的保密環境(透過計算index，來加密)
+  - 優點:當index的範圍擴大或是index設定恰當，就能有很高的效率去尋找或是進行增減
+  * 缺點:當index的範圍太小或是index設定不恰當，就很容易增加運算時間和記憶體暫存(例如:所有key都放在同一個index裡，變得跟list的結構相似)
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week12
-* Breadth-First Search
+* [Breadth-First Search](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW5/%E8%AA%AA%E6%98%8E%20_BST%26DST.ipynb)
+  * 廣度優先搜尋演算法
+  - 時間複雜度:O(V+E)
+  * 一種圖形搜尋演算法
+  - 從根節點(s)開始，沿著樹的寬度(鄰近點)遍歷樹的節點
+  * 尋找圖中所有連接元件
+  - 尋找非加權圖中任兩點的最短路徑(然而在加權圖形中，BFS通常不會回傳最佳解)
+  * 測試一圖是否為二分圖
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.g7a5d8b85ee_0_0)
 ### 🥐week13
-* Depth-First Search
+* [Depth-First Search](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW5/%E8%AA%AA%E6%98%8E%20_BST%26DST.ipynb)
+  * 深度優先搜尋演算法
+  - 時間複雜度:O(V+E)
+  * 一種圖形搜尋演算法
+  - 沿著樹的深度遍歷樹的點，先將一支根上的先搜尋完(最深處)，再往下一個節點走
+  * 為了解Maze Problem而生的演算法
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week14
-* Minimum Spanning Tree
+* [Minimum Spanning Tree(Kruskal)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96_Dijkstra.ipynb)
+  * 克魯斯克爾演算法
+  - 一種用來尋找最小生成樹的演算法
+  * 跟Prim演算法和Boruvka演算法為貪婪演算法的應用
+  - 節點之間不能形成圈，且最後只能有一個parent
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week15
-* Shortest Path
+* [Shortest Path(Dijkstra)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96_Dijkstra.ipynb)
+  * 戴克斯特拉算法
+  - 最快的單源最短路徑演算法
+  * 通過為每個頂點v保留目前為止所找到的從s到v的最短路徑
+  - 開放最短路徑優先演算法是該演算法在網路路由中的一個具體實現
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### 🥐week16
 * 期末考方式和計分規則
