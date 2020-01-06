@@ -88,10 +88,11 @@ ___
 * Shortest Path
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### week16
-* 期末考
-- [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSkbZghFr5Y3VG3b-BKCZiLNHyhcMIxFmNDHn-tgWQqH4vaGjulKASn_ex_LLDJwxPIRCacGQnBRYrI/pub?start=false&loop=false&delayms=3000&slide=id.g7be2b1a8b7_1_20)
-### week17
 * 期末考方式和計分規則
+- [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vSkbZghFr5Y3VG3b-BKCZiLNHyhcMIxFmNDHn-tgWQqH4vaGjulKASn_ex_LLDJwxPIRCacGQnBRYrI/pub?start=false&loop=false&delayms=3000&slide=id.g7be2b1a8b7_1_20)
+
+### week17
+* 期末考
   * 時間複雜度:InsertionSort、QuickSort、HeapSort、MergeSort、BST、BRT、DFS、BFS
   - 基本程式碼手寫:LinkList、Stack、Queue、InsertionSort、QuickSort、HeapSort、MergeSort 
   * 樹:BST(新增、刪除、修改、查詢)、BRT(新增、刪除、修改、查詢、平衡)
