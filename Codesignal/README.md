@@ -3,3 +3,9 @@
 
 ### add
 ![add](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E5%9C%96%E7%89%87%E5%8D%80/add.png?raw=true)
+
+### centuryFromYear
+![centuryFromYear](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E5%9C%96%E7%89%87%E5%8D%80/centuryFromYear.png?raw=true)
+
+### checkPalindrome
+![]()
