@@ -9,11 +9,11 @@
 1. [流程圖quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
 2. [程式碼quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/QuickSort_06170134.py)
 ### HW2   
-* [流程圖heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-HS.ipynb)
-* [程式碼heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/heap_sort_06170134.py)
-* [流程圖merge(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-MS.ipynb)
-* [程式碼merge(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/merge_sort_06170134.py)
-* [兩者比較(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/%E5%85%A9%E8%80%85%E4%B9%8B%E6%AF%94%E8%BC%83.pdf)
+1. [流程圖heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-HS.ipynb)
+2. [程式碼heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/heap_sort_06170134.py)
+3. [流程圖merge(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-MS.ipynb)
+4. [程式碼merge(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/merge_sort_06170134.py)
+5. [兩者比較(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/%E5%85%A9%E8%80%85%E4%B9%8B%E6%AF%94%E8%BC%83.pdf)
 ### HW3  
 3.[流程圖binary_tree(11/22)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW3/%E6%B5%81%E7%A8%8B%E5%9C%96_binary_tree.ipynb)
   [程式碼binary_tree(11/22)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW3/binary_search_tree_06170134.py)
