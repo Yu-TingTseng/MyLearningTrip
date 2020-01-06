@@ -3,7 +3,7 @@
 
 # Who am I ?
 我是曾鈺婷，我的興趣是吃美食、看小說跟旅行，會選擇讀資料科學相關科系是因為不討厭使用電腦、也不討厭閱讀資料，我喜歡觀察人，包括人的周圍發生的事，很有趣，就連旅行和小說都是，我可以看到很多不一樣的風景，所以希望未來我可以讓自己有能力去看更多。
-
+___
 # 交作業專區Homework
 ### HW1
 1. [流程圖quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
