@@ -96,10 +96,10 @@ ___
 * [Binary Search Tree](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW3/%E6%B5%81%E7%A8%8B%E5%9C%96_binary_tree.ipynb)
   * 二元搜尋樹，是二元樹的衍生
   - 時間複雜度
-   * space:O(log n)
-   - insert:O(log n)
-   * search:O(log n)
-   - delete:O(log n)
+         * space:O(log n)
+         - insert:O(log n)
+         * search:O(log n)
+         - delete:O(log n)
   * 左邊的子節點放比父節點小的或等於的，右邊的子節點放大於的
   - 相比其他資料結構，優勢在於尋找、插入的時間複雜度較低
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -107,11 +107,13 @@ ___
 * Red Black Tree
   * 紅黑樹(二元平衡樹)
   - 時間複雜度
-   * space:O(log n)
-   - insert:O(log n)
-   * search:O(log n)
-   - delete:O(log n)
-  * 
+         * space:O(log n)
+         - insert:O(log n)
+         * search:O(log n)
+         - delete:O(log n)
+  * 實現關聯陣列
+  - 跟節點必需要是黑色的，子節點是紅色的
+  
 - [老師ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Hash Table](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW4/%E6%B5%81%E7%A8%8B%E5%9C%96_hash_table.ipynb)
   * 雜湊表
