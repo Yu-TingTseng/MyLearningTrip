@@ -2,7 +2,7 @@
 我是曾鈺婷，我的興趣是吃美食、看小說跟旅行，會選擇讀資料科學相關科系是因為不討厭使用電腦、也不討厭閱讀資料，我喜歡觀察人，包括人的周圍發生的事，很有趣，就連旅行和小說都是，我可以看到很多不一樣的風景，所以希望未來我可以讓自己有能力去看更多。
 
 # ☕ My Learning Trip
-這裡是用來我的學習歷程，這是我第一次接觸GitHub，一開始是為了教資料結構演算法課要交作業作業才會使創建這個GitHub，後來發現這個網站真的蠻好用的，很多練習過的程式可以放上來，有系統性的整理，只要整理好了，在查找自己的資料的時候才不會亂糟糟的、不會找不到、夠快速，也能節省很多電腦裡的空間，只要上傳了，不刪除，它們會一直都在。
+這裡是用來紀錄我的學習歷程，這是我第一次接觸GitHub，一開始是為了教資料結構演算法課要交作業作業才會使創建這個GitHub，後來發現這個網站真的蠻好用的，很多練習過的程式可以放上來，有系統性的整理，只要整理好了，在查找自己的資料的時候才不會亂糟糟的、不會找不到、夠快速，也能節省很多電腦裡的空間，只要上傳了，不刪除，它們會一直都在。
 
 ___
 # ☕ 交作業專區Homework
@@ -26,10 +26,11 @@ ___
 * [流程圖BFS&DFS(12/20)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW5/%E8%AA%AA%E6%98%8E%20_BST%26DST.ipynb)
 - [程式碼BFS&DFS(12/20)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW5/BFS_06170134.py)
 ### 🥞HW6  
-* [流程圖(1/3)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96_Dijkstra.ipynb)
-- [程式碼(1/3)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/Dijkstra_06170134.py)
+* [流程圖Dijkstra&Kruskal(1/3)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96_Dijkstra.ipynb)
+- [程式碼Dijkstra&Kruskal(1/3)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/Dijkstra_06170134.py)
   
 # ☕ LearningBySelf
+### 🥐[練習題目]()
 1. [TwoSum](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/TwoSum.ipynb)
 
 2. [Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Reverse%20Integer.ipynb)
@@ -187,6 +188,13 @@ ___
 - YA~HAPPY
 ### 🥐關於這堂課的心得
 * 我覺得這堂課帶給我很大的壓力，我的程式邏輯並不是很好，一開始我也想好好去學習這堂課的內容，我知道老師是希望我們能更好，但我不認同助教和老師討論出的評分方式（我覺得兩人跟本就講不一樣的東西啊），後來發現我每次都是想辦法應付助教的作業而已，反而讓我本來不討厭理解程式碼，變得很抗拒去接觸，又不得不去，讓我覺得很折磨，希望我寒假可以調整過來。
+# ☕ CS50
+* [影片學習](https://github.com/Yu-TingTseng/MyLearningTrip/tree/master/CS50)
+# ☕ CodeSignal
+### 🥐[練習題目](https://github.com/Yu-TingTseng/MyLearningTrip/tree/master/Codesignal)
+* [add](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Codesignal/add)
+- [centuryFromYear](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Codesignal/centuryFromYear)
+* [checkPalindrome](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Codesignal/checkPalindrome)
 # ☕ Practice(機器學習)
 1. [基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
   
