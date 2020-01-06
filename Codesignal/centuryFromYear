@@ -1,0 +1,7 @@
+main.py3
+
+def centuryFromYear(year):
+    if year%100==0:
+        return year/100;
+    return int(year/100)+1;
+截圖連結:https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E5%9C%96%E7%89%87%E5%8D%80/centuryFromYear.png    
