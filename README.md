@@ -5,8 +5,8 @@
 我是曾鈺婷，我的興趣是吃美食、看小說跟旅行，會選擇讀資料科學相關科系是因為不討厭使用電腦、也不討厭閱讀資料，我喜歡觀察人，包括人的周圍發生的事，很有趣，就連旅行和小說都是，我可以看到很多不一樣的風景，所以希望未來我可以讓自己有能力去看更多。
 
 # 交作業專區Homework
-1.[流程圖quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HomeWork1/HW1%E6%B5%81%E7%A8%8B%E5%9C%96.pdf)
-  [程式碼quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HomeWork1/%E7%A8%8B%E5%BC%8F%E7%A2%BC_quick.ipynb)
+1.[流程圖quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/%E8%AA%AA%E6%98%8E_quick.ipynb)
+  [程式碼quick(10/18)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW1/QuickSort_06170134.py)
    
 2.[流程圖heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/HW2-HS.ipynb)
   [程式碼heap(11/8)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW2/heap_sort_06170134.py)
