@@ -30,7 +30,7 @@ ___
 - [程式碼Dijkstra&Kruskal(1/3)](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/HW6/Dijkstra_06170134.py)
   
 # ☕ LearningBySelf
-### 🥐[練習題目]()
+### 🥐[練習題目](https://github.com/Yu-TingTseng/MyLearningTrip/tree/master/Leetcode)
 1. [TwoSum](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/TwoSum.ipynb)
 
 2. [Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Reverse%20Integer.ipynb)
@@ -197,4 +197,5 @@ ___
 * [checkPalindrome](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Codesignal/checkPalindrome)
 # ☕ Practice(機器學習)
 1. [基礎練習1](https://nbviewer.jupyter.org/github/Yu-TingTseng/MyLearningTrip/blob/master/%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7-%E4%BD%9C%E6%A5%AD1.ipynb)
-  
+2. [迴歸練習](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/%E5%B7%A8%E8%B3%87%E4%B8%89A-06170134-%E6%9B%BE%E9%88%BA%E5%A9%B7-HW2.ipynb)  
+3. [熱度圖&MSE](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/HW3-%E5%B7%A8%E8%B3%873A-%E6%9B%BE%E9%88%BA%E5%A9%B7.ipynb)
