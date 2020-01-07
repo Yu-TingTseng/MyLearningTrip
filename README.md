@@ -31,15 +31,15 @@ ___
   
 # ☕ LearningBySelf
 ### 🥐[練習題目](https://github.com/Yu-TingTseng/MyLearningTrip/tree/master/Leetcode)
-1. [TwoSum](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/TwoSum.ipynb)
+1. [TwoSum](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Leetcode/TwoSum.ipynb)
 
-2. [Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Reverse%20Integer.ipynb)
+2. [Reverse Integer](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Leetcode/Reverse%20Integer.ipynb)
 
-3. [Palindrome Number](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Palindrome%20Number.ipynb)
+3. [Palindrome Number](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Leetcode/Palindrome%20Number.ipynb)
 
-4. [Longest Common Prefix](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Longest%20Common%20Prefix.ipynb)
+4. [Longest Common Prefix](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Leetcode/Longest%20Common%20Prefix.ipynb)
 
-5. [Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/LeetCode%E7%B7%B4%E7%BF%92/Length%20of%20Last%20Word.ipynb)
+5. [Length of Last Word](https://github.com/Yu-TingTseng/MyLearningTrip/blob/master/Leetcode/Length%20of%20Last%20Word.ipynb)
 
 # ☕ 資料結構演算法上課內容
 ### 🥐week1
